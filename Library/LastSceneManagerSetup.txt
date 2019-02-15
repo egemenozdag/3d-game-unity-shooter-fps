@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Bullet Casing/Scenes/Exemple_Scene.unity
+  isLoaded: 1
+  isActive: 1
